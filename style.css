@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000000;
+    color: white;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #000000;
+}
+
+header nav {
+    display: flex;
+    margin: 10px 190px;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 280px;
+    gap: 40px;
+    font-size: 16px;
+}
+
+.About {
+    position: relative;
+}
+
+.Us{
+    position: absolute;
+}
+
+.Publications {
+    margin-left: 20px;
+}
+
+.nav-btns {
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    align-items: center;
+    gap: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-btn1 {
+    border: 1px solid white;
+    border-radius: 40px;
+    width: 130px;
+    height: 55px;
+    text-align: center;
+    position: relative;
+}
+
+.nav-btn1 a {
+    position: absolute;
+    font-size: 14px;
+    top: 17px;
+    right: 15px;
+}
+
+.nav-btn2 {
+    border: 1px solid #ed1c24;
+    border-radius: 40px;
+    width: 130px;
+    height: 55px;
+    text-align: center;
+    position: relative;
+    background-color: #ed1c24;
+}
+
+.nav-btn2 a {
+    position: absolute;
+    font-size: 14px;
+    top: 17px;
+    right: 10px;
+    background-color: #ed1c24;
+}
+
+.nav-btn2 a span {
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: white;
+}
+
+.nav-btn2 a span i {
+    color: #ed1c24;
+    font-size: 14px;
+    background: transparent;
+}
+
+.heading-sec2 {
+    text-align: center;
+}
+
+.h-sec2-span {
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+    color: #FFFFFF;
+}
+
+.p-logo-bg-cl {
+    background-color: #FFFFFF;
+}
+
+.product-list div {
+    background-color: #FFFFFF;
+}
+
+.btns {
+    position: relative;
+}
+
+.btn-width {
+    width: 170px;
+    padding: 15px;
+    font-size: 14px;
+}
+
+.btn3-width {
+    width: 200px;
+    padding: 15px;
+    font-size: 14px;
+}
+
+.btn1 {
+    position: absolute;
+    left: 230px;
+}
+
+.btn2 {
+    position: absolute;
+    left: 560px;
+}
+
+.btn3 {
+    position: absolute;
+    right: 211px;
+}
+
+.sec3-b-img {
+    background-image: url("images/Background-img.webp");
+}
+
+.nav-btn-icon2 {
+    overflow: hidden;
+}
+
+.my-sec3-btn {
+    overflow: hidden;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.my-padng {
+    padding-left: 100px;
+}
+
+.product-list-img {
+    overflow: hidden;
+}
+
+.sec4-c7-me {
+    margin-right: 98px;
+}
