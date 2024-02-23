@@ -177,3 +177,22 @@ a {
 .sec4-c7-me {
     margin-right: 98px;
 }
+
+footer p {
+    color: #b3b3b3;
+}
+
+.last-icons {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #ed1c24;
+}
+
+.last-icons i {
+    margin-top: 15px;
+    margin-left: 18px;
+    background-color: #ed1c24;
+    font-size: 20px;
+}
+
